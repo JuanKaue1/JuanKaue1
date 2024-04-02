@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**JuanKaue1/JuanKaue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi! My name is Juan Kauê 🖐🏼
 
-Here are some ideas to get you started:
+[![Blog](https://img.shields.io/website?label=juankaue.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://sujeitoprogramador.com)
+[![Youtube](https://img.shields.io/badge/jk_dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO1tS8K9a-wy9v-ORfYJ2bA)
+[![Instagram](https://img.shields.io/badge/@Juank.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juank.png/)
+[![Linkedin](https://img.shields.io/badge/juan_kauê-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-juan-724076268/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Fraga's Github stats](https://github-readme-stats.vercel.app/api?username=juankaue1&show_icons=true&theme=dark)
+
+## Technologies I use in my day
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+</div>
