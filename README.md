@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?label=juankaue.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://sujeitoprogramador.com)
 [![Youtube](https://img.shields.io/badge/jk_dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCO1tS8K9a-wy9v-ORfYJ2bA)
 [![Instagram](https://img.shields.io/badge/@Juank.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juank.png/)
-[![Linkedin](https://img.shields.io/badge/juan_kauê-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-juan-724076268/)
+[![Linkedin](https://img.shields.io/badge/juan_kauê-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-kau%C3%AA-724076268/)
 
 ![Fraga's Github stats](https://github-readme-stats.vercel.app/api?username=juankaue1&show_icons=true&theme=dark)
 
