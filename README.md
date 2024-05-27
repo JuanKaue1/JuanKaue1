@@ -1,7 +1,7 @@
 
 ## Hi! My name is Juan Kauê 🖐🏼
 
-[![Blog](https://img.shields.io/website?label=juankaue.com&style=for-the-badge&url=https://sujeitoprogramador.com)]([https://portfolio-jk-six.vercel.app/])
+[![Blog](https://img.shields.io/website?label=juankaue.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://portfolio-jk-six.vercel.app/)
 [![Instagram](https://img.shields.io/badge/@Juank.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juank.png/)
 [![Linkedin](https://img.shields.io/badge/juan_kauê-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-kau%C3%AA-724076268/)
 
