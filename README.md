@@ -2,7 +2,7 @@
 ## Hi! My name is Juan Kauê 🖐🏼
 
 [![Blog](https://img.shields.io/website?label=juankaue.com&style=for-the-badge&url=https://sujeitoprogramador.com)](https://portfolio-jk-six.vercel.app/)
-[![Instagram](https://img.shields.io/badge/@Juank.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juank.png/)
+[![Instagram](https://img.shields.io/badge/@frontendjuan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frontendjuan/)
 [![Linkedin](https://img.shields.io/badge/juan_kauê-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-kau%C3%AA-724076268/)
 
 ![Fraga's Github stats](https://github-readme-stats.vercel.app/api?username=juankaue1&show_icons=true&theme=dark)
